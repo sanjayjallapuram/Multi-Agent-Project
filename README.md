@@ -122,7 +122,7 @@ The Tavily client reads the API key from the environment, while the LLM is confi
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/sanjayjallapuram/Multi-Agent-Project.git
 cd multi-agent-research
 ```
 
